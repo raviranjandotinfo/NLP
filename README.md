@@ -12,6 +12,7 @@ Projects :-
 
 1. Donald trump vs Ron DeSantis tweets sentiment analysis.
    Details :- Getting data from X fromerly known as tweeter and analyzing the difference between two keywords.
+   Directory : /text-compare/trump-vs-desantis/
 
-2. 
+3. 
 
